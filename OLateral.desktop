@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OLateral
+Comment=Lateral-movement mapper — SMB/WMI/WinRM/SSH/PtH reachability & checklist
+Exec=OLateral
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
